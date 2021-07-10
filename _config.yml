@@ -9,8 +9,8 @@ username: Antonio Trento
 user_description: Hi, my name is Antonio, for some years now I have been dedicating my free time to trying to improve myself in Marketing, photography and above all I do coding. My goal is to be an entrepreneur and I already have a couple of interesting projects in the pipeline.
 user_title: An aspiring entrepreneur
 email: lantoniotrento@gmail.com
-# twitter_username: lorem_ipsum
-# github_username:  lorem_ipsum
+twitter_username: lantoniotrento
+github_username:  antoniotrento
 # gplus_username:  lorem_ipsum
 
 exclude: ['package.json', 'src' , 'node_modules']
