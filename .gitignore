@@ -1,8 +1,5 @@
-_site
-.sass-cache
-node_modules
-.DS_STORE
-.jekyll-cache
-.env
-.prettierignore
+.sass-cache/
 .jekyll-metadata
+node_modules
+.vscode
+_site/
